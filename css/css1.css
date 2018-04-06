@@ -1,0 +1,27 @@
+*{
+	
+	margin: 0px;
+	padding: 0px;
+}
+.uno{
+
+	border: 1.5px solid black;
+	border-radius: 10px;
+	width: 75%;
+	box-sizing: border-box;
+	background: transparent;
+	padding: 25px;
+	margin-top: 12px;
+}
+.uno input{
+	width: 30%;
+	height: 30px;
+	margin: 0px 5px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+	border-color: black;
+}
+.uno label{
+	color: white;
+	font-size: 20px;
+}
